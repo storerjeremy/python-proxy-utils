@@ -1,0 +1,3 @@
+aiohttp==3.5.4
+lxml==4.3.0
+cssselect==1.0.3
